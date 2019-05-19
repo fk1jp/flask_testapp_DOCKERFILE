@@ -1,0 +1,5 @@
+#!/bin/sh
+
+git clone ${REPOSITORY} -b ${BRANCH:"master"} /app
+pip install -r /app/requirements.txt
+python /app/manage.py
