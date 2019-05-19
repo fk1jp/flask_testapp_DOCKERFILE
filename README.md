@@ -1,4 +1,4 @@
-flask_testapp_DOCKERFILE: DOCKERFILE for [flask_testapp]{https://github.com/fk1jp/flask_testapp}
+flask_testapp_DOCKERFILE: DOCKERFILE for [flask_testapp](https://github.com/fk1jp/flask_testapp)
 ==========================
 
 # how to use
